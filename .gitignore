@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Office 临时锁文件
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# 日志与临时产物
+*.log
+tmp/
+out/
+_*.txt
